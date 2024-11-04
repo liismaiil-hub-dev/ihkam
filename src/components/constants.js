@@ -16,11 +16,10 @@ const navigation = [
   {
     title: 'Ihkam shares 2025',
     links: [
-      { title: '3akida 1', href: '/docs/3akida' },
-      { title: 'Tahsin al fikri 1', href: '/docs/tahsin-al-fikri' },
-      { title: 'Osoul al Fiqh 1', href: '/docs/osoul-al-fikh' },
-      { title: 'Anahwo 1', href: '/docs/anahwo' },
-      
+      { title: '3akida 1', href: '/docs/3akid-25' },
+      { title: 'Tahsin al fikri 1', href: '/docs/tahsin-al-fikri-25' },
+      { title: 'Osoul al Fiqh 1', href: '/docs/osoul-al-fikh-25' },
+      { title: 'Anahwo 1', href: '/docs/anahwo-25' },
     ],
   },
    {
