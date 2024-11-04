@@ -4,7 +4,7 @@ pageTitle: ihkam institut shared documents courses and lectures .
 description: Courses shared from ihkam institut betwen talaba.
 ---
 
-## Ihkam documents for first year [Motawasit level]  (2024) 
+## Ihkam documents {first year} [Motawasit level](2024) 
 
 > * [3akida-1](./docs/3akida )
 > * [3akida-2](./docs/3akida-2 )
@@ -16,7 +16,7 @@ description: Courses shared from ihkam institut betwen talaba.
 > * [osoul-al-fikh-1](./docs/osoul-al-fikh )
 > * [osoul-al-fikh-2](./docs/osoul-al-fikh-2 )
 
-## Ihkam documents for second yearn [Motawasit level]  (2025) 
+## Ihkam documents {second year} [Motawasit level](2025) 
 
 > * [3akida-1](./docs/3akida-25 )
 > * [tahsin-al-fikri-1](./docs/tahsin-al-fikri-25 )
