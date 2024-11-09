@@ -1,10 +1,10 @@
-# ihkam  shares for instruts students all the usefull documents and link lectures,
+# ihkam shares usefull documents and link lectures for students,
 
-ihkam institut share is a usefull documents sharing front end, enjoy this usefull knowlege   . 
+ihkam institut share is a usefull documents sharing front end, enjoy this usefull knowlege and practice. 
 
 ## Getting started
 
-After cloning 
+After cloning the repo , go to the the directory , and tape
 
 ```bash
 npm install
@@ -20,6 +20,6 @@ Finally, open [http://localhost:3000](http://localhost:3000) in your browser to 
 
 ## Customizing
 
-You can start editing this repository  by modifying the files in the `/pages/docs` folder. 
-feel free to copy one file and modify it, it s a regular markdown file, you can add links in the side bar by adding entries to constants file in `/src/components` repository.
+You can start editing this repository and modifying the files in the `/pages/docs` folder. 
+feel free to copy one file and modify it, it s all a regular markdown files, you can add links in the side bar by adding entries to constants file in `/src/components` repository.
 
