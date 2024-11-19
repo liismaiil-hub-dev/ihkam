@@ -68,4 +68,3 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-32-11.png.webp "page 11 ")
 ![cours](/images/nahwo/nahwo-32-12.png.webp "page 12 ")
 ![cours](/images/nahwo/nahwo-32-13.png.webp "page 13 ")
-![cours](/images/nahwo/nahwo-32-14.png.webp "page 14 ")
