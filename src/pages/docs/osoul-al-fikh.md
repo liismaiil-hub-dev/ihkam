@@ -1,4 +1,4 @@
----
+s---
 title: Osoul al fikh
 pageTitle: Osoul Al fikh  (part one). 2024
 description: Cours about foundation of juridiction some rules.
