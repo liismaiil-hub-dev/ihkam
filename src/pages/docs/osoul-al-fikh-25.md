@@ -108,7 +108,6 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-33-12.png.webp "cours 12 ")
 ![cours](/images/osoul/osoul-33-13.png.webp "cours 13 ")
 
-
 ### Cours 34 [📹️](https://www.youtube.com/watch?v=r1AUxB5fT_o)
 
 ![cours](/images/osoul/osoul-34-2.png.webp "cours 2 ")
