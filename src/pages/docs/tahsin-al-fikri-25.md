@@ -47,6 +47,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-26-13.png.webp "page 13")
 ![cours](/images/tahsin/tahsin-26-14.png.webp "page 14")
 ![cours](/images/tahsin/tahsin-26-15.png.webp "page 15")
+{Genesis, or Bereishit} {Exodus, or Shemot} {Leviticus, or Vayikra} {Numbers, or BaMidbar} {Deuteronomy, or Devarim}
 ![cours](/images/tahsin/tahsin-26-16.png.webp "page 16")
 ![cours](/images/tahsin/tahsin-26-17.png.webp "page 17")
 ![cours](/images/tahsin/tahsin-26-18.png.webp "page 18")
@@ -79,7 +80,6 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-27-16.png.webp "page 16")
 ![cours](/images/tahsin/tahsin-27-17.png.webp "page 17")
 ![cours](/images/tahsin/tahsin-27-18.png.webp "page 18")
-![cours](/images/tahsin/tahsin-27-19.png.webp "page 19")
 ![cours](/images/tahsin/tahsin-27-20.png.webp "page 20")
 ![cours](/images/tahsin/tahsin-27-21.png.webp "page 21")
 ![cours](/images/tahsin/tahsin-27-22.png.webp "page 22")
