@@ -96,7 +96,6 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-29-16.png.webp "page 16")
 ![cours](/images/3akida/darat-29-17.png.webp "page 17")
 ![cours](/images/3akida/darat-29-18.png.webp "page 18")
-![cours](/images/3akida/darat-29-19.png.webp "page 19")
 ![cours](/images/3akida/darat-29-20.png.webp "page 20")
 ![cours](/images/3akida/darat-29-21.png.webp "page 21")
 ![cours](/images/3akida/darat-29-22.png.webp "page 22")
