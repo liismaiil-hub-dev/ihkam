@@ -10,6 +10,7 @@ description: Cours about foundations of dogme .
 
 ![cours](/images/3akida/darat-25-3.png.webp "page 3")
 ![cours](/images/3akida/darat-25-5.png.webp "page 5")
+![cours](/images/3akida/darat-25-4.png.webp "page 4")
 ![cours](/images/3akida/darat-25-6.png.webp "page 6")
 ![cours](/images/3akida/darat-25-7.png.webp "page 7")
 ![cours](/images/3akida/darat-25-8.png.webp "page 8")
@@ -18,6 +19,7 @@ description: Cours about foundations of dogme .
 ### Cours 26 [📹️](https://www.youtube.com/watch?v=I3lg7LiFZjw)
 
 ![cours](/images/3akida/darat-26-3.png.webp "page 3")
+![cours](/images/3akida/darat-26-4.png.webp "page 4")
 ![cours](/images/3akida/darat-26-5.png.webp "page 5")
 ![cours](/images/3akida/darat-26-6.png.webp "page 6")
 ![cours](/images/3akida/darat-26-7.png.webp "page 7")
@@ -31,6 +33,7 @@ description: Cours about foundations of dogme .
 ### Cours 27 [📹️](https://www.youtube.com/watch?v=qJv3kOAvWc4)
 
 ![cours](/images/3akida/darat-27-3.png.webp "page 3")
+![cours](/images/3akida/darat-27-4.png.webp "page 4")
 ![cours](/images/3akida/darat-27-5.png.webp "page 5")
 ![cours](/images/3akida/darat-27-6.png.webp "page 6")
 ![cours](/images/3akida/darat-27-7.png.webp "page 7")
@@ -49,6 +52,7 @@ description: Cours about foundations of dogme .
 ### Cours 28 [📹️](https://www.youtube.com/watch?v=G9McNs6AICU)
 
 ![cours](/images/3akida/darat-28-3.png.webp "page 3")
+![cours](/images/3akida/darat-28-4.png.webp "page 4")
 ![cours](/images/3akida/darat-28-5.png.webp "page 5")
 ![cours](/images/3akida/darat-28-6.png.webp "page 6")
 ![cours](/images/3akida/darat-28-7.png.webp "page 7")
@@ -77,6 +81,7 @@ description: Cours about foundations of dogme .
 ### Cours 29 [📹️](https://www.youtube.com/watch?v=RiYRz35rUQY)
 
 ![cours](/images/3akida/darat-29-3.png.webp "page 3")
+![cours](/images/3akida/darat-29-4.png.webp "page 4")
 ![cours](/images/3akida/darat-29-5.png.webp "page 5")
 ![cours](/images/3akida/darat-29-6.png.webp "page 6")
 ![cours](/images/3akida/darat-29-7.png.webp "page 7")
@@ -110,6 +115,7 @@ description: Cours about foundations of dogme .
 ### Cours 30 [📹️](https://www.youtube.com/watch?v=Auty8vhLuiE)
 
 ![cours](/images/3akida/darat-30-3.png.webp "page 3")
+![cours](/images/3akida/darat-30-4.png.webp "page 4")
 ![cours](/images/3akida/darat-30-5.png.webp "page 5")
 ![cours](/images/3akida/darat-30-6.png.webp "page 6")
 ![cours](/images/3akida/darat-30-7.png.webp "page 7")
@@ -145,6 +151,7 @@ description: Cours about foundations of dogme .
 ### Cours 31 [📹️](https://www.youtube.com/watch?v=7dnP3CRR7PA)
 
 ![cours](/images/3akida/darat-31-3.png.webp "page 3")
+![cours](/images/3akida/darat-31-4.png.webp "page 4")
 ![cours](/images/3akida/darat-31-5.png.webp "page 5")
 ![cours](/images/3akida/darat-31-6.png.webp "page 6")
 ![cours](/images/3akida/darat-31-7.png.webp "page 7")
@@ -183,6 +190,7 @@ description: Cours about foundations of dogme .
 ### Cours 32 [📹️](https://www.youtube.com/watch?v=EQzDIgEQjGQ)
 
 ![cours](/images/3akida/darat-32-3.png.webp "page 3")
+![cours](/images/3akida/darat-32-4.png.webp "page 4")
 ![cours](/images/3akida/darat-32-5.png.webp "page 5")
 ![cours](/images/3akida/darat-32-6.png.webp "page 6")
 ![cours](/images/3akida/darat-32-7.png.webp "page 7")
