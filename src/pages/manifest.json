@@ -4,8 +4,8 @@
     "display": "browser",
     "scope": "/",
     "start_url": "/",
-    "name": "ihmy-share",
-    "short_name": "ihmy-share0",
+    "name": "ihkam shared documents ",
+    "short_name": "ihkam shared documents 0",
     "description": "document sharing for instutut ",
     "icons": {
         "name": "liismLogo.svg"
