@@ -1,6 +1,6 @@
 ---
-title: Tahsin al fikri
-pageTitle: Tahsin al fikri (part one). 2025
+title: Ihkam Tahsin al fikri
+pageTitle: Ihlam [Tahsin al fikri (part one) for 2025]
 description: Cours about protection about all polyteists ideas .
 ---
 ## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
