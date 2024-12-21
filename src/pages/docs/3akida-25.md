@@ -130,6 +130,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-30-17.png.webp "page 17")
 ![cours](/images/3akida/darat-30-18.png.webp "page 18")
 ![cours](/images/3akida/darat-30-19.png.webp "page 19")
+limada al 9kodra ALLAH 9kadir abadan ???
 ![cours](/images/3akida/darat-30-20.png.webp "page 20")
 ![cours](/images/3akida/darat-30-21.png.webp "page 21")
 ![cours](/images/3akida/darat-30-22.png.webp "page 22")
