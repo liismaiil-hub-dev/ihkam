@@ -164,7 +164,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-36-16.png.webp "cours 16 ")
 ![cours](/images/osoul/osoul-36-17.png.webp "cours 17 ")
 
-### Cours 36 [📹️](https://www.youtube.com/watch?v=RNwwA6nLBe4)
+### Cours 37 [📹️](https://www.youtube.com/watch?v=RNwwA6nLBe4)
 
 ![cours](/images/osoul/osoul-37-2.png.webp "cours 2 ")
 ![cours](/images/osoul/osoul-37-3.png.webp "cours 3 ")
@@ -181,3 +181,4 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-37-14.png.webp "cours 14 ")
 ![cours](/images/osoul/osoul-37-15.png.webp "cours 15 ")
 ![cours](/images/osoul/osoul-37-16.png.webp "cours 16 ")
+
