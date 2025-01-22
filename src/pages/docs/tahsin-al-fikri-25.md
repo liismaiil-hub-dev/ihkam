@@ -1,6 +1,6 @@
 ---
 title: Ihkam Tahsin al fikri
-pageTitle: Ihlam [Tahsin al fikri (part one) for 2025]
+pageTitle: Ihkam [Tahsin al fikri (part one) for 2025]
 description: Cours about protection about all polyteists ideas .
 ---
 ## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
@@ -119,6 +119,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-28-24.png.webp "page 24")
 
 ### Cours 29 [📹️](https://www.youtube.com/watch?v=9dHfxN83BP8)
+## [The Bible Contradictions](https://www.bibviz.org/ )
 
 ![cours](/images/tahsin/tahsin-29-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-29-3.png.webp "page 3")
@@ -203,6 +204,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-32-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-32-3.png.webp "page 3")
 ![cours](/images/tahsin/tahsin-32-4.png.webp "page 4")
+![cours](/images/tahsin/tahsin-32-5.png.webp "page 4")
 ![cours](/images/tahsin/tahsin-32-6.png.webp "page 6")
 ![cours](/images/tahsin/tahsin-32-7.png.webp "page 7")
 ![cours](/images/tahsin/tahsin-32-8.png.webp "page 8")
@@ -220,11 +222,12 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-32-21.png.webp "page 21")
 ![cours](/images/tahsin/tahsin-32-22.png.webp "page 22")
 
-### Cours 33 [📹️](https://www.youtube.com/watch?v=vZ1uTRPba18)
+### Cours 33 [📹️](https://www.youtube.com/watch?v=ZNV3_jYMMKc)
 
 ![cours](/images/tahsin/tahsin-33-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-33-3.png.webp "page 3")
 ![cours](/images/tahsin/tahsin-33-4.png.webp "page 4")
+![cours](/images/tahsin/tahsin-33-5.png.webp "page 4")
 ![cours](/images/tahsin/tahsin-33-6.png.webp "page 6")
 ![cours](/images/tahsin/tahsin-33-7.png.webp "page 7")
 ![cours](/images/tahsin/tahsin-33-8.png.webp "page 8")
@@ -251,3 +254,37 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-33-29.png.webp "page 29")
 ![cours](/images/tahsin/tahsin-33-30.png.webp "page 30")
 ![cours](/images/tahsin/tahsin-33-31.png.webp "page 31")
+
+### Cours 34 [📹️](https://www.youtube.com/watch?v=aT1FmW5-gcs)
+
+![cours](/images/tahsin/tahsin-34-2.png.webp "page 2")
+![cours](/images/tahsin/tahsin-34-3.png.webp "page 3")
+![cours](/images/tahsin/tahsin-34-4.png.webp "page 4")
+![cours](/images/tahsin/tahsin-34-5.png.webp "page 4")
+![cours](/images/tahsin/tahsin-34-6.png.webp "page 6")
+![cours](/images/tahsin/tahsin-34-7.png.webp "page 7")
+![cours](/images/tahsin/tahsin-34-8.png.webp "page 8")
+![cours](/images/tahsin/tahsin-34-9.png.webp "page 9")
+![cours](/images/tahsin/tahsin-34-10.png.webp "page 10")
+![cours](/images/tahsin/tahsin-34-11.png.webp "page 11")
+![cours](/images/tahsin/tahsin-34-12.png.webp "page 12")
+![cours](/images/tahsin/tahsin-34-13.png.webp "page 13")
+![cours](/images/tahsin/tahsin-34-14.png.webp "page 14")
+![cours](/images/tahsin/tahsin-34-15.png.webp "page 15")
+![cours](/images/tahsin/tahsin-34-16.png.webp "page 16")
+![cours](/images/tahsin/tahsin-34-17.png.webp "page 17")
+![cours](/images/tahsin/tahsin-34-18.png.webp "page 18")
+![cours](/images/tahsin/tahsin-34-19.png.webp "page 19")
+### Cours 35 [📹️](https://www.youtube.com/watch?v=j42FippNGSk)
+
+![cours](/images/tahsin/tahsin-35-2.png.webp "page 2")
+![cours](/images/tahsin/tahsin-35-3.png.webp "page 3")
+![cours](/images/tahsin/tahsin-35-4.png.webp "page 4")
+![cours](/images/tahsin/tahsin-35-5.png.webp "page 5")
+![cours](/images/tahsin/tahsin-35-6.png.webp "page 6")
+![cours](/images/tahsin/tahsin-35-7.png.webp "page 7")
+![cours](/images/tahsin/tahsin-35-8.png.webp "page 8")
+![cours](/images/tahsin/tahsin-35-9.png.webp "page 9")
+![cours](/images/tahsin/tahsin-35-10.png.webp "page 10")
+![cours](/images/tahsin/tahsin-35-11.png.webp "page 11")
+![cours](/images/tahsin/tahsin-35-12.png.webp "page 12")
