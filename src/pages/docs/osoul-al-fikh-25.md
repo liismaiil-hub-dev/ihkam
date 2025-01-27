@@ -206,7 +206,6 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-38-21.png.webp "cours 21 ")
 ![cours](/images/osoul/osoul-38-22.png.webp "cours 22 ")
 
-
 ### Cours 39 [📹️](https://www.youtube.com/watch?v=Os3XzQeZnNE)
 
 ![cours](/images/osoul/osoul-39-2.png.webp "cours 2 ")
