@@ -7,6 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start -p 8001",
+    "st": "next start -p 8001",
     "lint": "next lint"
   },
   "browserslist": "defaults, not ie <= 11",
