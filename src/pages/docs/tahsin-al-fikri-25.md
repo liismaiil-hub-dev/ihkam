@@ -301,7 +301,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-36-8.png.webp "page 8")
 ![cours](/images/tahsin/tahsin-36-9.png.webp "page 9")
 
-### Cours 37 [📹️](https://www.youtube.com/watch?v=T-uvt81R8bg)
+### Cours 37 [📹️](https://www.youtube.com/watch?v=muQhLncfGM0)
 
 ![cours](/images/tahsin/tahsin-37-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-37-3.png.webp "page 3")
