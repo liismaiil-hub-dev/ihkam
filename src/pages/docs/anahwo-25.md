@@ -5,6 +5,27 @@ description: Arabic gramar.
 ---
 ## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
 
+
+### Cours 28 [📹️](https://www.youtube.com/watch?v=qwUR7Xof72s)
+
+![cours](/images/nahwo/nahwo-28-2.png.webp "page 2")
+![cours](/images/nahwo/nahwo-28-3.png.webp "page 3")
+![cours](/images/nahwo/nahwo-28-4.png.webp "page 4")
+![cours](/images/nahwo/nahwo-28-5.png.webp "page 5")
+![cours](/images/nahwo/nahwo-28-6.png.webp "page 6")
+![cours](/images/nahwo/nahwo-28-7.png.webp "page 7")
+![cours](/images/nahwo/nahwo-28-8.png.webp "page 8")
+![cours](/images/nahwo/nahwo-28-9.png.webp "page 9")
+![cours](/images/nahwo/nahwo-28-10.png.webp "page 10")
+![cours](/images/nahwo/nahwo-28-11.png.webp "page 11")
+![cours](/images/nahwo/nahwo-28-12.png.webp "page 12")
+![cours](/images/nahwo/nahwo-28-13.png.webp "page 13")
+![cours](/images/nahwo/nahwo-28-14.png.webp "page 14")
+![cours](/images/nahwo/nahwo-28-15.png.webp "page 15")
+![cours](/images/nahwo/nahwo-28-16.png.webp "page 16")
+
+
+
 ### Cours 29 [📹️](https://www.youtube.com/watch?v=spu0eNZf1L4)
 
 ![cours](/images/nahwo/nahwo-29-2.png.webp "page 2")
