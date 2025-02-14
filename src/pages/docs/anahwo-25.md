@@ -20,9 +20,10 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-28-11.png.webp "page 11")
 ![cours](/images/nahwo/nahwo-28-12.png.webp "page 12")
 ![cours](/images/nahwo/nahwo-28-13.png.webp "page 13")
+![cours](/images/nahwo/nahwo-14-15-28-1.png.webp "page 15")
 ![cours](/images/nahwo/nahwo-28-14.png.webp "page 14")
-![cours](/images/nahwo/nahwo-28-15.png.webp "page 15")
-![cours](/images/nahwo/nahwo-28-16.png.webp "page 16")
+![cours](/images/nahwo/nahwo-28-15.png.webp "page 16")
+![cours](/images/nahwo/nahwo-28-16.png.webp "page 17")
 
 
 
