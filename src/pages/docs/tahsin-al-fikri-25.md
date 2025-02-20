@@ -38,7 +38,6 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-26-4.png.webp "page 4")
 ![cours](/images/tahsin/tahsin-26-5.png.webp "page 5")
 ![cours](/images/tahsin/tahsin-26-6.png.webp "page 6")
-![cours](/images/tahsin/tahsin-26-7.png.webp "page 7")
 ![cours](/images/tahsin/tahsin-26-8.png.webp "page 8")
 ![cours](/images/tahsin/tahsin-26-9.png.webp "page 9")
 ![cours](/images/tahsin/tahsin-26-10.png.webp "page 10")
