@@ -118,7 +118,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-28-24.png.webp "page 24")
 
 ### Cours 29 [📹️](https://www.youtube.com/watch?v=9dHfxN83BP8)
-## [The Bible Contradictions](https://www.bibviz.org/ )
+
 
 ![cours](/images/tahsin/tahsin-29-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-29-3.png.webp "page 3")
@@ -184,6 +184,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-31-14.png.webp "page 14")
 ![cours](/images/tahsin/tahsin-31-15.png.webp "page 15")
 ![cours](/images/tahsin/tahsin-31-16.png.webp "page 16")
+## [The Bible Contradictions](https://www.bibviz.org/ )
 ![cours](/images/tahsin/tahsin-31-17.png.webp "page 17")
 ![cours](/images/tahsin/tahsin-31-18.png.webp "page 18")
 ![cours](/images/tahsin/tahsin-31-19.png.webp "page 19")
