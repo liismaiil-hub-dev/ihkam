@@ -385,3 +385,6 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-39-22.png.webp "page 22")
 ![cours](/images/tahsin/tahsin-39-23.png.webp "page 23")
 ![cours](/images/tahsin/tahsin-39-24.png.webp "page 24")
+
+### Moraja3a [16] 39 [📹️](https://www.youtube.com/watch?v=qAs774dsUbM)
+### Moraja3a [16] 39 [📹️](https://www.youtube.com/watch?v=83R3e3YFwOI)
