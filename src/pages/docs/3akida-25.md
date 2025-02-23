@@ -1,6 +1,6 @@
 ---
 title: Darat al bayan fi Osoul Al 1'iman
-pageTitle: Ihkam [3akida Darat albayan (part one)] for 2025
+pageTitle: Ihkam { Courses for second year motawasit }[ 3akida Darat albayan (part one)] for 2025
 description: Cours about foundations of dogme  from Darat al bayan fi Osoul Al 1'iman.
 ---
 ## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
@@ -173,14 +173,12 @@ limada al 9kodra???, fa 1inna ALLAH 9kadir abadan ???
 ![cours](/images/3akida/darat-31-23.png.webp "page 23")
 ![cours](/images/3akida/darat-31-24.png.webp "page 24")
 ![cours](/images/3akida/darat-31-25.png.webp "page 25")
-![cours](/images/3akida/darat-31-26.png.webp "page 26")
 ![cours](/images/3akida/darat-31-27.png.webp "page 27")
 ![cours](/images/3akida/darat-31-28.png.webp "page 28")
 ![cours](/images/3akida/darat-31-29.png.webp "page 29")
 ![cours](/images/3akida/darat-31-30.png.webp "page 30")
 ![cours](/images/3akida/darat-31-31.png.webp "page 31")
 ![cours](/images/3akida/darat-31-32.png.webp "page 32")
-19 1ism (names)
 ![cours](/images/3akida/darat-31-33.png.webp "page 33")
 ![cours](/images/3akida/darat-31-34.png.webp "page 34")
 ![cours](/images/3akida/darat-31-35.png.webp "page 35")
