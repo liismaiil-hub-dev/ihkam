@@ -440,7 +440,6 @@ limada al 9kodra???, fa 1inna ALLAH 9kadir abadan ???
 ![cours](/images/3akida/darat-39-22.png.webp "page 22")
 ![cours](/images/3akida/darat-39-23.png.webp "page 23")
 ![cours](/images/3akida/darat-39-24.png.webp "page 24")
-![cours](/images/3akida/darat-39-25.png.webp "page 25")
 ![cours](/images/3akida/darat-39-26.png.webp "page 26")
 ![cours](/images/3akida/darat-39-27.png.webp "page 27")
 ![cours](/images/3akida/darat-39-28.png.webp "page 28")
