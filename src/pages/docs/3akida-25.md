@@ -268,7 +268,7 @@ limada al 9kodra???, fa 1inna ALLAH 9kadir abadan ???
 ![cours](/images/3akida/darat-33-47.png.webp "page 47")
 ![cours](/images/3akida/darat-33-48.png.webp "page 48")
 
-### Cours 34 [📹️](https://www.youtube.com/watch?v=aT1FmW5-gcs)
+### Cours 34 [📹️](No video for that cours )
 
 ![cours](/images/3akida/darat-34-3.png.webp "page 3")
 ![cours](/images/3akida/darat-34-4.png.webp "page 4")
@@ -353,7 +353,6 @@ limada al 9kodra???, fa 1inna ALLAH 9kadir abadan ???
 ![cours](/images/3akida/darat-36-20.png.webp "page 20")
 ![cours](/images/3akida/darat-36-21.png.webp "page 21")
 ![cours](/images/3akida/darat-36-22.png.webp "page 22")
-![cours](/images/3akida/darat-36-23.png.webp "page 23")
 
 
 ### Cours 37 [📹️](https://www.youtube.com/watch?v=6LOB2qzakk4)
@@ -414,7 +413,6 @@ limada al 9kodra???, fa 1inna ALLAH 9kadir abadan ???
 ![cours](/images/3akida/darat-38-26.png.webp "page 26")
 ![cours](/images/3akida/darat-38-27.png.webp "page 27")
 ![cours](/images/3akida/darat-38-28.png.webp "page 28")
-![cours](/images/3akida/darat-38-29.png.webp "page 29")
 ![cours](/images/3akida/darat-38-30.png.webp "page 30")
 ![cours](/images/3akida/darat-38-31.png.webp "page 31")
 
@@ -423,8 +421,8 @@ limada al 9kodra???, fa 1inna ALLAH 9kadir abadan ???
 ![cours](/images/3akida/darat-39-3.png.webp "page 3")
 ![cours](/images/3akida/darat-39-4.png.webp "page 4")
 ![cours](/images/3akida/darat-39-5.png.webp "page 5")
-![cours](/images/3akida/darat-39-6.png.webp "page 6")
-![cours](/images/3akida/darat-39-7.png.webp "page 7")
+![cours](/images/3akida/darat-39-7.png.webp "page 6")
+![cours](/images/3akida/darat-39-6.png.webp "page 7")
 ![cours](/images/3akida/darat-39-8.png.webp "page 8")
 ![cours](/images/3akida/darat-39-9.png.webp "page 9")
 ![cours](/images/3akida/darat-39-10.png.webp "page 10")
