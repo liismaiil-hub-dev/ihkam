@@ -301,3 +301,5 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-43-18.png.webp "cours 18")
 ![cours](/images/osoul/osoul-43-19.png.webp "cours 19 ")
 ![cours](/images/osoul/osoul-43-20.png.webp "cours 20")
+
+### Moraja3a [📹️](https://youtu.be/0C_bLKuliXg)

@@ -293,3 +293,6 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-43-17.png.webp "page 17")
 ![cours](/images/nahwo/nahwo-43-18.png.webp "page 18")
 ![cours](/images/nahwo/nahwo-43-19.png.webp "page 19")
+
+
+### Moraja3a [📹️](https://youtu.be/tfneQiVC-fU)
