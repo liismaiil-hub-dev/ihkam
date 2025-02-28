@@ -206,7 +206,6 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-32-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-32-3.png.webp "page 3")
 ![cours](/images/tahsin/tahsin-32-4.png.webp "page 4")
-![cours](/images/tahsin/tahsin-32-5.png.webp "page 4")
 ![cours](/images/tahsin/tahsin-32-6.png.webp "page 6")
 ![cours](/images/tahsin/tahsin-32-7.png.webp "page 7")
 ![cours](/images/tahsin/tahsin-32-8.png.webp "page 8")
@@ -311,7 +310,6 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-37-5.png.webp "page 5")
 ![cours](/images/tahsin/tahsin-37-7.png.webp "page 7")
 ![cours](/images/tahsin/tahsin-37-8.png.webp "page 8")
-![cours](/images/tahsin/tahsin-37-6.png.webp "page 6")
 ![cours](/images/tahsin/tahsin-37-9.png.webp "page 9")
 ![cours](/images/tahsin/tahsin-37-10.png.webp "page 10")
 ![cours](/images/tahsin/tahsin-37-11.png.webp "page 11")
@@ -336,6 +334,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-38-5.png.webp "page 5")
 ![cours](/images/tahsin/tahsin-38-6.png.webp "page 6")
 ![cours](/images/tahsin/tahsin-38-7.png.webp "page 7")
+stoch8hida 3othman radiya ALLAH 3an8ho
 ![cours](/images/tahsin/tahsin-38-8.png.webp "page 8")
 ![cours](/images/tahsin/tahsin-38-9.png.webp "page 9")
 ![cours](/images/tahsin/tahsin-38-10.png.webp "page 10")
