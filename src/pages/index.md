@@ -22,6 +22,7 @@ description: Courses shared from ihkam institut betwen talaba.
 > * [tahsin-al-fikri-1](./docs/tahsin-al-fikri-25 )
 
 > * [anahwo-1](./docs/anahwo-25 )
+> * [anahwo-2](./docs/anahwo-25-2 )
 > * [osoul-al-fikh-1](./docs/osoul-al-fikh-25 )
 
 
